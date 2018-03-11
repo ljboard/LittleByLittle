@@ -63,14 +63,8 @@ const initialState = {
             history: initialHistory
         },
         { 
-            title: "Stretch", 
-            color: "#3bed94", 
-            goals: initialGoals,
-            history: initialHistory
-        },
-        { 
-            title: "Eat", 
-            color: "#3bedc3",
+            title: "Learn", 
+            color: "#3bedd2", 
             goals: initialGoals,
             history: initialHistory
         },
