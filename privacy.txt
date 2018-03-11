@@ -1,0 +1,4 @@
+# Privacy Policy
+
+1. No personally identifiable user data is saved.
+2. Any user-inputted information is only saved on the local device. 
